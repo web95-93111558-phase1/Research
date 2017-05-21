@@ -2,8 +2,9 @@
 <head>
 <style>
 .font {
-    font-family: 'Scheherazade', Tahoma; font-size: 32
-    dir='rtl'
+    font-family: 'Scheherazade', Tahoma;
+    dir='rtl';
+    border: 1px solid #e9e9e9;
 }
 </style>
 </head>
